@@ -1,0 +1,35 @@
+body{
+  background-color:black;
+}
+
+.container{
+    text-align: right;
+    color: navajowhite;
+    margin-top: -58%;
+    margin-right: -97%;
+}
+.buttons {
+  margin-top: 7%;
+  text-align: left;
+  margin-left: -60px;
+}
+.buttons2 {
+    margin-left: 144px;
+    margin-top: -310px;
+}
+.section{
+    margin-left: 296px;
+    margin-top: 2%;
+    background-color: darkgray;
+    width: 10%;
+}
+/* .hello{
+  color: slateblue;
+  text-align: right;
+  margin: 0% 10% 0% 0%;
+} */
+.header{
+  text-align: center;
+  background-color:black;
+  color:rgb(230, 221, 221);
+}

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "apexcharts": "^3.10.1",
+    "apexcharts": "^3.24.0",
     "canvas-gauges": "^2.1.5",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.11.0",
